@@ -1,21 +1,9 @@
 {
   "listings": [
     {
-      "id": 1,
-      "description": "heater",
-      "image": "./images/heater.jpg",
-      "location": "BROOKLYN"
-    },
-    {
       "id": 2,
       "description": "2019 Toyota Tacoma grill",
       "image": "./images/toyota-grill.jpg",
-      "location": "Williamsburg"
-    },
-    {
-      "id": 3,
-      "description": "Free Braun 3735 Electric Toothbrush charger",
-      "image": "./images/toothbrush-charger.jpg",
       "location": "Williamsburg"
     },
     {
